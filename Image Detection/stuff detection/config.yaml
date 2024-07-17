@@ -1,0 +1,11 @@
+
+path: /Users/tirthpatel/Desktop/Computer Vision/Image Detection/stuff detection/data
+train: images/train
+val: images/train
+
+names:
+  0: Lamp
+  1: Table
+  2: Chair
+  3: Couch
+  4: Bed
